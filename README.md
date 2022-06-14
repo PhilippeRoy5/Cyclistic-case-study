@@ -8,7 +8,15 @@ For this project, I have decided to work on the Cyclistic Bike Sharing service l
 As a junior data analyst, my goal is to help the marketing team find some insights about the different types of users within a given dataset.
 
 ## Table of content
-[share](#SHARE)
+
+[Introduction](#Introduction)  
+[ASK](#ASK)  
+[PREPARE](#PREPARE)  
+[PROCESS](#PROCESS)  
+[ANALYZE](#ANALYZE)  
+[SHARE](#SHARE)  
+[INSIGHTS](#insights)  
+[RECOMMENDATIONS](#Recommendations)  
 
 ## Introduction
 
@@ -203,7 +211,7 @@ This map allows us to see how the annual members differ from the casual rider in
 
 Details of the SQL queries used for this case study can be found on <GITHUB>, and the Interactive visualizations can be found on <Tableau Public>
 
-## ACT (recommandations)
+ ## ACT 
 
 ### Insights
 
