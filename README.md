@@ -62,7 +62,7 @@ After a preliminary investigation, I decided to use:
 
 •	Tableau to create visualizations of my finding. 
 
-### DATA ORGANIZATION AND VERIFICATION WITH EXCEL.
+### DATA ORGANIZATION AND VERIFICATION WITH EXCEL
 
 I started by making a copy and saving the original data as a backup. I then opened each individual files with excel to start familiarizing myself with the data.
 
@@ -98,7 +98,7 @@ I opted for SQL over EXCEL to process the data because of the size of the docume
 I first removed the duplicates in EXCEL using the “remove duplicates” function and uploaded each individual EXCEL sheets (saved as CSV) to SQL. 
 
 
-### DATA CLEANING WITH SQL.
+### DATA CLEANING WITH SQL
 
 I used the “UNION” function to put all the data together into a single “YEAR_TABLE” that I could later alter as I go.
 
