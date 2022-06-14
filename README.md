@@ -9,14 +9,14 @@ As a junior data analyst, my goal is to help the marketing team find some insigh
 
 ## Table of content
 
-[Introduction](#Introduction)  
-[ASK](#ASK)  
-[PREPARE](#PREPARE)  
-[PROCESS](#PROCESS)  
-[ANALYZE](#ANALYZE)  
-[SHARE](#SHARE)  
-[INSIGHTS](#insights)  
-[RECOMMENDATIONS](#Recommendations)  
+* [INTRODUCTION](#Introduction)  
+* [ASK](#ASK)  
+* [PREPARE](#PREPARE)  
+* [PROCESS](#PROCESS)  
+* [ANALYZE](#ANALYZE)  
+* [SHARE](#SHARE)  
+* [INSIGHTS](#insights)  
+* [RECOMMENDATIONS](#Recommendations)  
 
 ## Introduction
 
