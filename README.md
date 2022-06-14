@@ -234,10 +234,11 @@ Details of the SQL queries used for this case study can be found on <GITHUB>, an
 
 •	Cyclist bike share should implement a new member onboarding discount and focus on yearly weekend-only membership to encourage casual riders to subscribe.
 
-
+*Thank you for reading my case study*.
+ 
+ 
+ 
 * The Case Study report is available for download [here](https://github.com/PhilippeRoy5/Cyclistic-case-study/blob/main/Cyclistic%20PROJECT.pdf).
 * The detailed SQL script can be seen [here](https://github.com/PhilippeRoy5/Cyclistic-case-study/blob/main/Cyclistic.sql).
 * My visualizations for this case study can be found on [Tableau Public](https://public.tableau.com/views/GoogleDataAnalyticsCertificationCaseStudy/MAIN?:language=en-US&:display_count=n&:origin=viz_share_link).
-
-*Thank you for reading my case study*.
 
